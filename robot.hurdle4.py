@@ -18,4 +18,3 @@ def lompat():
     turn_left()
 while not at_goal():
     lompat()
-
